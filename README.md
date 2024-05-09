@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0474EB&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0474EB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Glauco+Rodrigues;I'm+23+years+old;I+am+from+Uberlândia,+MG;I'm+a+software+engineer;Welcome+to+my+git!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0474EB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Glauco+Rodrigues;Eu+tenho+23+anos;Sou+graduado+em+redes+de+computadores;Bem+vindo+ao+meu+git!:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -14,8 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GlaucoRCB&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/nynenine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div align="center">
 <a href="https://www.linkedin.com/in/glauco-rodrigues-33b376190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0EA8F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
  

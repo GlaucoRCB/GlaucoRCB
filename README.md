@@ -11,7 +11,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GlaucoRCB&bg_color=0d1117&color=0474EB&line=0474EB&point=00D8FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<a href="https://www.linkedin.com/in/glauco-rodrigues-33b376190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0EA8F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/glaucorcb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0EA8F0?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
  
 ### Main skills:

@@ -23,6 +23,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DC1212&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=12A5DC&labelColor=0D1117)&nbsp;
